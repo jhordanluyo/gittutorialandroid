@@ -7,6 +7,12 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+        print("esto es un fiesta")
+        print("esto es un fiesta")
+        print("esto es un fiesta")
+        print("esto es un fiesta")
+        print("esto es un fiesta")
+        print("esto es un fiesta")
+        print("esto es un fiesta")
     }
 }
